@@ -174,6 +174,5 @@
     </form>
 </div>
 
-<script src="scripts"></script>
 </body>
 </html>
