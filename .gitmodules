@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/saifkhichi96/authentica-android.git
+[submodule "web"]
+	path = web
+	url = https://github.com/saifkhichi96/authentica-web
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/saifkhichi96/authentica-desktop
